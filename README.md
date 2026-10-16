@@ -6,4 +6,4 @@ Hosted copies of the browser (WebAssembly) builds of [figcraft](https://github.c
 - Specific version: `/figcraft/v<version>/`
 - Version list: `/figcraft/versions.json`
 
-Each version folder is the unmodified contents of upstream's `figcraft-web-<version>.zip` release asset, including its license files. Upstream license: . A scheduled workflow mirrors new releases.
+Each version folder is the unmodified contents of upstream's `figcraft-web-<version>.zip` release asset, including its license files. Upstream license: Apache-2.0. A scheduled workflow mirrors new releases.
